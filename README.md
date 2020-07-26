@@ -6,6 +6,6 @@ My goals with this project are:
       - Find a way to improve the image insertion code
    - Add code block (done)
       - Find a way to improve the code block insertion code
-   - Add @mention and comments (working on that)
+   - Add @mention and comments (working on it)
    - Document Colaboration
    - Embed media like tweeter, facebood, etc...
