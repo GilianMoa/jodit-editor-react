@@ -1,5 +1,6 @@
 # jodit-editor-react
 This a simple project to study Jodit Editor.
+
 My goals with this project are:
    - Image upload to Cloudinary (done)
       - Find a way to improve the image insertion code
