@@ -9,3 +9,6 @@ My goals with this project are:
    - Add @mention and comments (working on it)
    - Document Colaboration
    - Embed media like tweeter, facebood, etc...
+
+
+Jodit editor with Cloudinary image upload
